@@ -7,15 +7,6 @@ A responsive, static portfolio website designed around the supplied resume and p
 1. Extract the ZIP file.
 2. Open `index.html` in a modern browser. For best results, use a simple local server such as VS Code's Live Server extension.
 
-## Publish to Netlify (no coding required)
-
-1. Sign in to Netlify and open the Sites page.
-2. Drag and drop the extracted `sai-kiran-portfolio` folder (or upload the site ZIP if the deploy panel offers ZIP upload).
-3. Wait for Netlify to finish uploading the static files. It will provide a public URL.
-4. Open the URL on desktop and mobile, click every navigation link, test project case-study modals, and test the resume download.
-
-No build command or publish directory is needed for this static site; `index.html` sits at the project root.
-
 ## Included features
 
 - Responsive, accessible navigation and mobile menu
